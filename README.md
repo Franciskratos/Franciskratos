@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React projects<br>👯 I’m looking to collaborate on Software creation<br>🤝 I’m looking for help with developing a gym tracking app<br>🌱 I’m currently learning C#<br>💬 Ask me about anything<br>⚡ Fun fact - I like dates with bacon
+🔭 I’m currently working on React projects<br>👯 I’m looking to collaborate on Software creation<br>🤝 I’m looking for help with developing a gym tracking app<br>🌱 I’m currently learning C#<br>⚡ Fun fact - I like video games 
 
 
 # 💻 Tech Stack:
